@@ -5,33 +5,33 @@
   'neat/neat';
 
 @import
-  'abstracts/functions'
-  'abstracts/mixins'
-  'abstracts/placeholders'
+  'abstracts/functions',
+  'abstracts/mixins',
+  'abstracts/placeholders',
   'abstracts/variables';
 
 @import
-  'base/reset'
+  'base/reset',
   'base/typography';
 
 @import
-  'components/buttons'
-  'components/carousel.scss'
-  'components/cover'
+  'components/buttons',
+  'components/carousel.scss',
+  'components/cover',
   'components/dropdown';
 
 @import
-  'layout/footer'
-  'layout/forms'
-  'layout/grid'
-  'layout/header'
-  'layout/navigation'
+  'layout/footer',
+  'layout/forms',
+  'layout/grid',
+  'layout/header',
+  'layout/navigation',
   'layout/sidebar';
 
 @import
-  'pages/contact'
+  'pages/contact',
   'pages/home';
 
 @import
-  'themes/admin'
-  'themes/theme'
+  'themes/admin',
+  'themes/theme';
